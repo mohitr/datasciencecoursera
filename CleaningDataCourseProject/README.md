@@ -19,7 +19,7 @@ Group.2	activity_name
 tBodyAcc-mean()-X	mean of feature 'tBodyAcc-mean()-X' for given 'subject_id' and 'activity_name'
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
-...<br>
-...<br>
+...
+...
 fBodyBodyGyroJerkMag-meanFreq()
 ```
