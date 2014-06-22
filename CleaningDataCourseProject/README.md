@@ -11,4 +11,12 @@ Assumption: data has been downloaded and current working directory has been set 
 * mean of all features calculated by subject_id and activity_name
 * data set is dumped to "tidy_data.txt" in working directory
 
-
+#### Following are the code book to understand tidy data set
+Group.1	subject_id
+Group.2	activity_name
+tBodyAcc-mean()-X	mean of feature 'tBodyAcc-mean()-X' for given subject_id and activity_name
+tBodyAcc-mean()-Y
+tBodyAcc-mean()-Z
+...
+...
+fBodyBodyGyroJerkMag-meanFreq()
